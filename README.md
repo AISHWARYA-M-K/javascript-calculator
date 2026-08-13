@@ -4,6 +4,10 @@
 
 A simple calculator built using HTML5, CSS3 and JavaScript that performs basic arithmetic operations.
 
+## Live Demo
+
+[View Calculator](https://aishwarya-m-k.github.io/javascript-calculator/)
+
 ## Features
 
 - Addition
